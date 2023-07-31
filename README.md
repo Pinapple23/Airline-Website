@@ -192,9 +192,9 @@ Within few seconds the project should be running
 
 ## Screenshots
 * #### Homepage
-  ![WhatsApp Image 2023-07-31 at 8 41 04 PM](https://github.com/Pinapple23/Airline-Website/assets/92719911/f059de01-3300-4e66-98f3-a964616548b9)
-  ![WhatsApp Image 2023-07-31 at 8 41 03 PM](https://github.com/Pinapple23/Airline-Website/assets/92719911/bfcd2e5d-cb92-4ca6-ade0-4e6f2b74071a)
-  ![WhatsApp Image 2023-07-31 at 8 41 02 PM](https://github.com/Pinapple23/Airline-Website/assets/92719911/3eb5f4c8-75b6-433e-94ca-8e2cdebe1e16)
+![WhatsApp Image 2023-07-31 at 8 41 04 PM](https://github.com/Pinapple23/Airline-Website/assets/92719911/f059de01-3300-4e66-98f3-a964616548b9)
+![WhatsApp Image 2023-07-31 at 8 41 03 PM](https://github.com/Pinapple23/Airline-Website/assets/92719911/bfcd2e5d-cb92-4ca6-ade0-4e6f2b74071a)
+![WhatsApp Image 2023-07-31 at 8 41 02 PM](https://github.com/Pinapple23/Airline-Website/assets/92719911/3eb5f4c8-75b6-433e-94ca-8e2cdebe1e16)
 
 * #### User profile screen shots
 ![userprofile](https://user-images.githubusercontent.com/57347562/147394223-c2cda0c8-05af-4612-8d2c-a29312061392.png)
